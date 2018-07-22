@@ -3,6 +3,7 @@
   "compilerOptions": {
     "experimentalDecorators": true,
     "moduleResolution": "node",
+    "resolveJsonModule": true,
     "importHelpers": true,
     "newLine": "LF",
     "types": [],
