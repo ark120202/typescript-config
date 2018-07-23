@@ -6,7 +6,7 @@
   "author": "ark120202",
   "license": "MIT",
   "peerDependencies": {
-    "tslib": "^1.9.3",
+    "tslib": "*",
     "typescript": "^3.0.0-rc"
   }
 }
