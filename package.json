@@ -8,6 +8,6 @@
   "peerDependencies": {
     "tslib": "*",
     "tslint-language-service": "^0.9.9",
-    "typescript": "^3.0.0-rc"
+    "typescript": "^3.0.1"
   }
 }
