@@ -8,6 +8,6 @@
   "peerDependencies": {
     "tslib": "*",
     "typescript": "^3.0.1",
-    "typescript-tslint-plugin": "^0.0.4"
+    "typescript-tslint-plugin": "*"
   }
 }
