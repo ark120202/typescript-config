@@ -7,7 +7,6 @@
   "license": "MIT",
   "peerDependencies": {
     "tslib": "*",
-    "typescript": "^3.0.1",
-    "typescript-tslint-plugin": "*"
+    "typescript": "^3.0.1"
   }
 }

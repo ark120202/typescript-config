@@ -8,7 +8,6 @@
     "importHelpers": true,
     "newLine": "LF",
     "types": [],
-    "plugins": [{ "name": "typescript-tslint-plugin", "ignoreDefinitionFiles": true }],
 
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
