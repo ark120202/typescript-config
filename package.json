@@ -3,8 +3,14 @@
   "version": "1.5.0",
   "description": "TypeScript config for ark120202",
   "repository": "https://github.com/ark120202/typescript-config.git",
-  "author": "ark120202",
   "license": "MIT",
+  "author": "ark120202",
+  "files": [
+    "dota",
+    "node",
+    "web",
+    "base.json"
+  ],
   "scripts": {
     "lint": "prettier --check **/*.{md,yml,json}"
   },
