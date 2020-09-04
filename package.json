@@ -6,7 +6,6 @@
   "license": "MIT",
   "author": "ark120202",
   "files": [
-    "dota",
     "node",
     "web",
     "base.json"
