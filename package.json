@@ -6,9 +6,9 @@
   "license": "MIT",
   "author": "ark120202",
   "files": [
+    "base.json",
     "node",
-    "web",
-    "base.json"
+    "web"
   ],
   "scripts": {
     "lint": "prettier --check ."

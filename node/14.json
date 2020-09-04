@@ -2,7 +2,7 @@
   "$schema": "http://json.schemastore.org/tsconfig",
   "extends": "./base.json",
   "compilerOptions": {
-    "target": "es2019",
-    "lib": ["es2019", "es2020.bigint"]
+    "target": "es2020",
+    "lib": ["es2020"]
   }
 }
