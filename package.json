@@ -2,7 +2,7 @@
   "name": "@ark120202/typescript-config",
   "version": "2.1.0",
   "description": "TypeScript config for ark120202",
-  "repository": "https://github.com/ark120202/typescript-config.git",
+  "repository": "https://github.com/ark120202/typescript-config",
   "license": "MIT",
   "author": "ark120202",
   "files": [
@@ -12,7 +12,7 @@
     "base.json"
   ],
   "scripts": {
-    "lint": "prettier --check **/*.{md,yml,json}"
+    "lint": "prettier --check ."
   },
   "prettier": {
     "printWidth": 100,
@@ -21,10 +21,6 @@
     "trailingComma": "all"
   },
   "devDependencies": {
-    "prettier": "^1.17.0"
-  },
-  "peerDependencies": {
-    "tslib": "*",
-    "typescript": "^3.0.1"
+    "prettier": "^2.1.1"
   }
 }
