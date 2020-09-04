@@ -1,0 +1,9 @@
+{
+  "$schema": "http://json.schemastore.org/tsconfig",
+  "extends": "../base.json",
+  "compilerOptions": {
+    "sourceMap": true,
+    "module": "esnext",
+    "jsx": "react"
+  }
+}
